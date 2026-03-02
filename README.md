@@ -30,6 +30,10 @@ Features
 -   Automatically clears First Object Name after apply
 -   Renames object and mesh data together
 
+## 🎬 Demo Video
+
+▶️ [Watch the Bulk Rename Demo](https://github.com/CiPH3R-88/NFS-BlackBox-Part-Naming-Blender-Add-on/blob/e9f2ac6aa05be98c392eaa024f36abf43ab28f81/src/nfsbb_bulk_rename.mp4)
+
 Installation
 
 1.  Open Blender.

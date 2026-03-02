@@ -26,7 +26,7 @@ Features
 -   Live preview before applying
 -   Special KIT00_BODY_A numbering rule
 -   Default STYLE## prefix generation
--   Optional custom prefix support (e.g. CHATGPT##)
+-   Optional custom prefix support (e.g. NFS## or CARNAME##)
 -   Strict naming validation
 -   Selection count display
 -   Undo support

@@ -2,8 +2,9 @@
 
 NFS BlackBox Part Naming is a Blender add-on designed to automate part renaming for Need for Speed BlackBox asset workflows.
 
+![image alt](https://raw.githubusercontent.com/CiPH3R-88/NFS-BlackBox-Part-Naming-Blender-Add-on/main/src/nfsbb_bulk_rename.png)
 ## 🎬 Demo
-[![NFS BlackBox Bulk Rename Demo](https://raw.githubusercontent.com/CiPH3R-88/NFS-BlackBox-Part-Naming-Blender-Add-on/main/src/nfsbb_bulk_rename.png)](https://github.com/CiPH3R-88/NFS-BlackBox-Part-Naming-Blender-Add-on/blob/main/src/nfsbb_bulk_rename.mp4)
+https://github.com/user-attachments/assets/451d987c-23bc-4ce7-bc38-73203576e1dc
 
 It applies correct naming rules for:
 

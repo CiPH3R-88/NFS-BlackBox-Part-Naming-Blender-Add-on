@@ -37,20 +37,7 @@ Installation
 
 1.  Open Blender.
 
-2.  Go to Edit → Preferences → Add-ons.
-
-3.  Click Install…
-
-4.  Select the file:
-
-    nfs_blackbox_part_naming.py
-
-    (Or install the packaged ZIP if distributed as a folder-based
-    add-on.)
-
-5.  Enable the checkbox:
-
-    NFS BlackBox Part Naming
+2.  Drag & Drop Zip File into Blender viewport
 
 How To Use
 
